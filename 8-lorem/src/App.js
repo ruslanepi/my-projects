@@ -30,7 +30,7 @@ function App() {
           onChange={(e) => setCount(e.target.value)}
         />
         <button type='submit' className='btn'>
-          generate
+          generate lorem
         </button>
       </form>
 
